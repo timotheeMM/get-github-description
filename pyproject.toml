@@ -17,3 +17,6 @@ classifiers = [
 [project.urls]
 Homepage = "https://github.com/timotheeMM/get-github-description"
 Issues = "https://github.com/timotheeMM/get-github-description/issues"
+
+[project.dependencies]
+requests = "^2.32.3"
