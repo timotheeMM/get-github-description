@@ -1,1 +1,1 @@
-from .get_github_description import get_github_description
+from .get_github_description import get_repo_description
